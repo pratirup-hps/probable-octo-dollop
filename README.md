@@ -12,6 +12,7 @@ End of test.
 
 Line A
 Line B
+asd
 Line C
 
 This should preserve newlines!
