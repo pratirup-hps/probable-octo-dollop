@@ -1,7 +1,9 @@
 # probable-octo-dollop
 
-This line was added by GitNotes sync test!
-test
-bye
-asdasdsad12233
-asdasdsad12233
+This is a test with newlines:
+
+Line 1
+Line 2
+Line 3
+
+End of test.
