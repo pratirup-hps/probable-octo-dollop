@@ -12,7 +12,7 @@ End of test.
 
 Line A
 Line B
-asd
+123
 Line C
 
 This should preserve newlines!
