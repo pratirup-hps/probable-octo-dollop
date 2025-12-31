@@ -3,6 +3,7 @@
 This is a test with newlines:
 
 1
+
 2
 3
 
