@@ -14,6 +14,12 @@ Line A
 Line B
 123
 Line C
+332211
+
+Line A
+Line B
+123
+Line C
 112233
 
 This should preserve newlines!
