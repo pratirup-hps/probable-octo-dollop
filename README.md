@@ -6,10 +6,6 @@ This is a test with newlines:
 2
 3
 
-1
-2
-3
-
 End of test.
 
 ## New Test Section
