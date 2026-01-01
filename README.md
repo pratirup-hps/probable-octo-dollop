@@ -1,36 +1,33 @@
-# probable-octo-dollop
+# Heading 1
 
-This is a test with newlines:
+## Heading 2
 
-1
-2
-3
+### Heading 3
 
-End of test.
+#### Heading 4
 
-## New Test Section
+##### Heading 5
 
-Line A
-Line B
-123
-Line C
-332211
+###### Heading 6
 
-Line A
-Line B
-123
+This is **bold text** and this is *italic text*.
 
-assaasasasa
-asdadsa
+Here's some ~~strikethrough~~ text.
 
+- List item 1
+- List item 2
+- List item 3
 
+1. Numbered item
+2. Another item
 
+> This is a blockquote
+> with multiple lines
 
-Line C
-112233
+`inline code` looks like this.
 
-This should preserve newlines!
+[Link text](https://example.com)
 
-New line added for testing
-Another new line
-Third line
+---
+
+That's all folks!
