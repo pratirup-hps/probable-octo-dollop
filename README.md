@@ -26,7 +26,7 @@ Here's some ~~strikethrough~~ text.
 
 `inline code` looks like this.
 
-[Link text](https://example.com)
+[test](/test/test.md)
 
 ---
 
