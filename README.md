@@ -14,7 +14,7 @@ This is **bold text** and this is *italic text*.
 
 Here's some ~~strikethrough~~ text.
 
-- List item 1
+- List item 
 - List item 2
 - List item 3
 
