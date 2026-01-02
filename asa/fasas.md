@@ -14,7 +14,7 @@ This is **bold text** and this is *italic text*.
 
 Here's some ~~strikethrough~~ text.
 
-- List item 
+- List item 1
 - List item 2
 - List item 3
 
@@ -26,7 +26,7 @@ Here's some ~~strikethrough~~ text.
 
 `inline code` looks like this.
 
-[test](/test/test.md)
+[assaa](/README.md)
 
 ---
 
