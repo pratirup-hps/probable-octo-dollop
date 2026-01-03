@@ -28,7 +28,7 @@ asd
 `inline code` looks like this.
 
 [test](/test/test.md)
-
+[head]
 
 ---
 
